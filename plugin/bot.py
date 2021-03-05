@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# ILham - UserBot
 # Copyright (C) 2020 TeamUltroid
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
@@ -69,13 +69,13 @@ async def lol(ult):
     uptime = grt((time.time() - start_time))
     header = udB.get("ALIVE_TEXT") if udB.get("ALIVE_TEXT") else "Hey,  I am alive."
     als = """
-**The Ultroid Userbot...**
+**The ILham Userbot...**
 
 **{}**
 
 ┏━━━━━━━━━━━━━━━━━━━━━
-┣ **Owner** - `{}`
-┣ **Version** - `{}`
+┣ **Owner** - `{@bismillahselaluadaa}`
+┣ **Version** - `{terbaru}`
 ┣ **UpTime** - `{}`
 ┣ **Python** - `{}`
 ┣ **Telethon** - `{}`
