@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# ILham - UserBot
 A stable pluggable Telegram userbot, based on Telethon.
 
 <p align="center">
