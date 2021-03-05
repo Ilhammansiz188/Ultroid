@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# ILham - UserBot
 # Copyright (C) 2020 TeamUltroid
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
@@ -13,7 +13,7 @@ from . import *
 
 # --------------------------------------------------------------------#
 telegraph = Telegraph()
-r = telegraph.create_account(short_name="Ultroid")
+r = telegraph.create_account(short_name="ILham")
 auth_url = r["auth_url"]
 # --------------------------------------------------------------------#
 
