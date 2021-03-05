@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# ILham - UserBot
 # Copyright (C) 2020 TeamUltroid
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
@@ -9,8 +9,8 @@ from pyUltroid import *
 from pyUltroid.dB.database import Var
 from telethon import Button, custom
 
-OWNER_NAME = ultroid_bot.me.first_name
-OWNER_ID = ultroid_bot.me.id
+OWNER_NAME = ILham_bot.me.first_name
+OWNER_ID = ILham_bot.me.id
 
 
 async def setit(event, name, value):
